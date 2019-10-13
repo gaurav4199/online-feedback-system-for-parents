@@ -7,3 +7,5 @@ burden of efforts and burden of keeping and maintaining the records on a manual 
 requires a lot of space and safety to keep up such records. Also the feedbacks from parents can
 be tempered for wrong reasons in case of paper based feedbacks wherein the online feedback
 system will always ensure safety of feedbacks privacy.
+
+<b>Technologies Used: PHP, MySQL, HTML, CSS.</b>
